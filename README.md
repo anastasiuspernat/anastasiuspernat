@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, my name is Anastasiy. Nice to meet you!
+### Hi there 👋 my name is Anastasiy. Nice to meet you!
 
 ⚡ I’m a software engineer, graphic artist, photographer, founder and demiurge at [Anastasiy.com](https://anastasiy.com). I'm building solutions for the special effects and game production, the essential software for painters and graphical artists widely used around the world.
 
