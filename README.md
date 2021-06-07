@@ -1,4 +1,4 @@
-<img align="left" width="100" src="https://user-images.githubusercontent.com/1848380/111722798-c9723180-881f-11eb-9c51-4f4f9bdcf2e2.png">
+<img align="left" width="100" src="https://user-images.githubusercontent.com/1848380/121068490-30e5b080-c781-11eb-8d43-e17cc6e0b2ac.gif">
 
 ### Hi there 👋 my name is Anastasiy. Nice to meet you!
 
