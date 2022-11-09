@@ -6,5 +6,5 @@
 
 🔭 My software is being adopted for many years inside such studios as Disney, Blizzard, Epic Games, Crytek, Dreamworks, took part in the production of Avengers, Avatar and Harry Potter. It includes [MagicPicker color wheel](https://anastasiy.com/colorwheel), [MagicSquire brush group manager](https://anastasiy.com/magicsquire), [MagicTints, 1-click color matcher](https://anastasiy.com/magictints) and others.
 
-Sometimes I take part in opensource on GitHub. Among my contributions are [IINA](https://github.com/anastasiuspernat/iina) and [mpv](https://github.com/mpv-player/mpv) media players and [torch/nn](https://github.com/torch/nn) neural network package for PyTorch. 
+Sometimes I take part in opensource on GitHub. Among my contributions are AUTOMATIC1111's [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) diffusion nueral net AI Art project, [IINA](https://github.com/anastasiuspernat/iina) and [mpv](https://github.com/mpv-player/mpv) media players and [torch/nn](https://github.com/torch/nn) neural network package for PyTorch. 
 
